@@ -17,6 +17,7 @@ Muscle memory maintained:
 * Searching through results: the qwerty 'n' and 'N' (colemak: 'k' & 'K') key position is still used for scrolling forwards and backwards respectively through search results after a search with '/'
 * Homerow right-hand navigation: use the same qwerty key positions for navigating vim: 'h', 'j', 'k', & 'l' (colemak: h, n, e, i)
 * Visual & visual line selection remains the same
+* Undo: the qwerty 'u' position is still used for undo (colemak 'l')
 
 To install the plugin with vundle add this to your .vimrc:
 > ```Plugin 'cyleriggs/vim-colemak'```
