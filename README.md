@@ -18,5 +18,5 @@ Muscle memory maintained:
 * Homerow right-hand navigation: use the same qwerty key positions for navigating vim: 'h', 'j', 'k', & 'l' (colemak: h, n, e, i)
 * Visual & visual line selection remains the same
 
-To install the plugin with vundler add this to your .vimrc:
+To install the plugin with vundle add this to your .vimrc:
 > ```Plugin 'cyleriggs/vim-colemak'```
