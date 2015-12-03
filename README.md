@@ -13,15 +13,17 @@ This key mapping has the following principles:
 * Be willing to lose minor functionality which I do not personally utilize
 * Take advantage of colemak's high level of compatibility with QWERTY
 
-Muscle memory maintained:
+# Muscle memory maintained
+The following muscle memory for veteran QWERTY vim users is maintained:
 * Searching through results: the qwerty 'n' and 'N' (colemak: 'k' & 'K') key position is still used for scrolling forwards and backwards respectively through search results after a search with '/'
 * Homerow right-hand navigation: use the same qwerty key positions for navigating vim: 'h', 'j', 'k', & 'l' (colemak: h, n, e, i)
 * Visual & visual line selection remains the same
 * Undo: the qwerty 'u' position is still used for undo (colemak 'l')
 
-What about insert mode?
-* Given that 'i' is on the home row in colemak this had to be moved. I chose 'm' as it is in the same place as its QWERTY position in the colemak layout and not apparently used for anything in vim by default. When I started using this layout I thought about it as 'modify mode' rather than 'insert mode' to help remember this. Now of course it is muscle memory and I don't think about it.
+# What about insert mode?
+Given that 'i' is on the home row in colemak this had to be moved. I chose 'm' as it is in the same place as its QWERTY position in the colemak layout and not apparently used for anything in vim by default. When I started using this layout I thought about it as 'modify mode' rather than 'insert mode' to help remember this. Now of course it is muscle memory and I don't think about it.
 
+# Now I'm lost without my .vimrc
 Every once in a while you must edit files on a system that does not have your .vimrc. I recommend the following in those cases:
 * If you still have QWERTY chops switch your keyboard layout while in vim. This is not an option for me as I am no longer proficient at typing in QWERTY and cannot even touch type without my layout set to colemak.
 * If at all possible scp a .vimrc over or just wget the .vim file from this repository and make it your .vimrc on that box.
