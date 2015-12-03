@@ -3,7 +3,7 @@ A VIM plugin which sets a keymap appropriate for colemak users. [Colemak](http:/
 
 A major hurdle in switching to the colemak layout is how to use vim. When I made the switch to colemak I found many recommended vimrc files across the net and some recommendations to just learn the new layout, which I found atrocious: I was learning a new keyboard layout to have maximum efficiency on a keyboard and I spend most of my time at a keyboard inside vim, which meant this was a total non-starter for me. Another hitch with this plan is the fact that on the job I have to run vim on many remote systems which may not have my vim config on them, and I need to be as proficient as possible when using these systems as well.
 
-For reference this keymap was developed and used primarily on a [TEK model 229 keyboard](https://www.trulyergonomic.com/)
+For reference this keymap was developed and used primarily on a [TEK model 229 keyboard](https://www.trulyergonomic.com/).
 
 This key mapping has the following principles:
 * Utilize muscle memory for veteran vim users
