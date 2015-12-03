@@ -1,7 +1,7 @@
 # vim-colemak
 A VIM plugin which sets a keymap appropriate for colemak users. [Colemak](http://colemak.com/) is a semi-QWERTY compatible keyboard layout.
 
-A major hurdle in switching to the colemak layout is how to use vim. When I made the switch to colemak I found many recommended vimrc files across the net and some recommendations to just learn the new layout, which I found atrocious: I was learning a new keyboard layout to have maximum efficiency on a keyboard and I spend most of my time at a keyboard inside vim, which meant this was a total non-starter for me. Another hitch with this plan is the fact that on the job I have to run vim on many remote systems which may not have my vim config on them, and I need to be as proficient as possible when using these systems as well.
+A major hurdle in switching to the colemak layout is how to use vim. When I made the switch to colemak I found many recommended vimrc files across the net and some recommendations to just learn the new layout, but a standard vim configuration with a colemak layout is pretty rough and things are not placed in friendly locations, which I found atrocious. Given that I spend most of my time at a keyboard inside vim, I needed something that was just as efficient on a colemak layout as qwerty was on the default vim config. I set off to build a vim config that met these needs on a colemak layout and this is the mapping I ended up with. It's simple, but it took a lot of experimentation to figure out exactly which keys to swap and which keys to leave alone.
 
 For reference this keymap was developed and used primarily on a [TEK model 229 keyboard](https://www.trulyergonomic.com/).
 
