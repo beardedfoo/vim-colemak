@@ -13,7 +13,7 @@ This key mapping has the following principles:
 * Be willing to lose minor functionality which I do not personally utilize
 * Take advantage of colemak's high level of compatibility with QWERTY
 
-# Muscle memory maintained
+# Muscle Memory 
 The following muscle memory for veteran QWERTY vim users is maintained:
 * Searching through results: the qwerty 'n' and 'N' (colemak: 'k' & 'K') key position is still used for scrolling forwards and backwards respectively through search results after a search with '/'
 * Homerow right-hand navigation: use the same qwerty key positions for navigating vim: 'h', 'j', 'k', & 'l' (colemak: h, n, e, i)
