@@ -30,5 +30,6 @@ Every once in a while you must edit files on a system that does not have your .v
 * If it's a tiny change put up with nano, a graphical text editor, or some other simple editor for a few moments to make the change
 * Use the arrow keys instead of home row navigation. This is a bad habit, so minimize this kind of editing.
 
+# Installation
 To install the plugin with vundle add this to your .vimrc:
 > ```Plugin 'cyleriggs/vim-colemak'```
