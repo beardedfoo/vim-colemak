@@ -32,4 +32,4 @@ Every once in a while you must edit files on a system that does not have your .v
 
 # Installation
 To install the plugin with vundle add this to your .vimrc:
-> ```Plugin 'cyleriggs/vim-colemak'```
+> ```Plugin 'beardedfoo/vim-colemak'```
